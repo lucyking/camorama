@@ -1,3 +1,21 @@
+#in Raspberry Pi
+we should install:
+apt-get install gawk
+apt-get install libxml-parser-perl
+
+then we will find
+
+No package 'gdk-pixbuf-2.0' found
+No package 'gdk-pixbuf-xlib-2.0' found
+No package 'libgnomeui-2.0' found
+No package 'gtk+-2.0' found
+No package 'gconf-2.0' found
+No package 'libglade-2.0' found
+
+then 我先去上课啊
+
+
+#--------------------------------
 camorama - view, alter and save images from a webcam
 how to build:
 
